@@ -3,20 +3,19 @@ from _thread import *
 
 from egts.egts_protocol import EgtsProtocol
 from egts.egts_constants import EGTS_MIN_TRANSPORT_LENGTH
-from db import get_imei_id, insert_tracker_data
-from log import logger
+from db import get_car_id, insert_tracker_data
+from loguru import logger
 
 
 def handler(connection):
     package_id = 0
     answer_id = 0
     imei = ''
-    imei_id = 0
+    car_id = None
 
     try:
         while True:
             data = connection.recv(1024).strip()
-            # logger.info(data.decode())
             try:
                 if len(data) >= EGTS_MIN_TRANSPORT_LENGTH:
                     egts = EgtsProtocol(buff=data)
@@ -27,13 +26,18 @@ def handler(connection):
                                     logger.info(sub)
                                     imei = sub['imei'].decode()
                                     if imei != '':
-                                        imei_id = get_imei_id(imei=imei)
+                                        car_id = get_car_id(imei=imei)
 
                                 elif sub['subrecord_type'] == 16:
-                                    if imei_id != 0:
+                                    if not car_id:
+                                        car_id = get_car_id(imei=imei)
+
+                                    if car_id:
                                         insert_tracker_data(latitude=sub['latitude'], longitude=sub['longitude'],
-                                                            create_datetime=sub['navigation_time'], imei_id=imei_id)
+                                                            create_datetime=sub['navigation_time'], car_id=car_id)
                                         logger.info(f'{sub} {imei}')
+                                    else:
+                                        logger.info(f'Unregistered device ', {imei})
 
                         connection.sendall(egts.reply(package_id=package_id, answer_id=answer_id))
                         package_id += 1
@@ -67,4 +71,5 @@ def start_server(host: str, port: int):
         logger.error(str(e))
 
     finally:
+        logger.info(f'Server listing on the port {port}...')
         server_socket.close()

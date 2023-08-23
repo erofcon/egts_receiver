@@ -1,8 +1,12 @@
 import argparse
 import atexit
 
+from loguru import logger
+
 from db import cursor, close_connection
 from server import start_server
+
+logger.add("/mnt/projects_files/egts_receiver/logs/log.log", rotation="00:00")
 
 parser = argparse.ArgumentParser()
 

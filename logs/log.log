@@ -1,0 +1,192 @@
+2023-08-23 08:03:22.119 | ERROR    | server:start_server:68 - [Errno 98] Address already in use
+2023-08-23 08:03:22.119 | INFO     | server:start_server:71 - Server listing on the port 6543...
+2023-08-23 08:03:26.206 | ERROR    | server:start_server:68 - [Errno 98] Address already in use
+2023-08-23 08:03:26.207 | INFO     | server:start_server:71 - Server listing on the port 6543...
+2023-08-23 08:03:27.261 | ERROR    | server:start_server:68 - [Errno 98] Address already in use
+2023-08-23 08:03:27.261 | INFO     | server:start_server:71 - Server listing on the port 6543...
+2023-08-23 08:03:28.200 | ERROR    | server:start_server:68 - [Errno 98] Address already in use
+2023-08-23 08:03:28.200 | INFO     | server:start_server:71 - Server listing on the port 6543...
+2023-08-23 08:03:29.257 | ERROR    | server:start_server:68 - [Errno 98] Address already in use
+2023-08-23 08:03:29.257 | INFO     | server:start_server:71 - Server listing on the port 6543...
+2023-08-23 08:03:30.157 | ERROR    | server:start_server:68 - [Errno 98] Address already in use
+2023-08-23 08:03:30.157 | INFO     | server:start_server:71 - Server listing on the port 6543...
+2023-08-23 08:03:30.916 | ERROR    | server:start_server:68 - [Errno 98] Address already in use
+2023-08-23 08:03:30.917 | INFO     | server:start_server:71 - Server listing on the port 6543...
+2023-08-23 08:03:31.597 | ERROR    | server:start_server:68 - [Errno 98] Address already in use
+2023-08-23 08:03:31.597 | INFO     | server:start_server:71 - Server listing on the port 6543...
+2023-08-23 08:03:32.182 | ERROR    | server:start_server:68 - [Errno 98] Address already in use
+2023-08-23 08:03:32.182 | INFO     | server:start_server:71 - Server listing on the port 6543...
+2023-08-23 08:03:32.691 | ERROR    | server:start_server:68 - [Errno 98] Address already in use
+2023-08-23 08:03:32.691 | INFO     | server:start_server:71 - Server listing on the port 6543...
+2023-08-23 08:03:46.965 | ERROR    | server:start_server:68 - [Errno 98] Address already in use
+2023-08-23 08:03:46.966 | INFO     | server:start_server:71 - Server listing on the port 6543...
+2023-08-23 08:03:47.776 | ERROR    | server:start_server:68 - [Errno 98] Address already in use
+2023-08-23 08:03:47.777 | INFO     | server:start_server:71 - Server listing on the port 6543...
+2023-08-23 08:03:55.638 | ERROR    | server:start_server:68 - [Errno 98] Address already in use
+2023-08-23 08:03:55.639 | INFO     | server:start_server:71 - Server listing on the port 6543...
+2023-08-23 08:03:56.461 | ERROR    | server:start_server:68 - [Errno 98] Address already in use
+2023-08-23 08:03:56.461 | INFO     | server:start_server:71 - Server listing on the port 6543...
+2023-08-23 08:04:28.509 | INFO     | server:start_server:61 - Server is listing on the port 6543...
+2023-08-23 08:08:37.576 | INFO     | server:accept_connections:51 - Connected to: 192.168.1.252:42952
+2023-08-23 08:08:37.581 | INFO     | server:handler:26 - {'subrecord_type': 1, 'subrecord_length': 23, 'imei': b'866854055069457'}
+2023-08-23 08:08:37.583 | INFO     | server:handler:26 - {'subrecord_type': 1, 'subrecord_length': 23, 'imei': b'866854055069457'}
+2023-08-23 08:08:37.584 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:10:11.425 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:10:25.548 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:10:41.503 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:11:47.580 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:12:03.549 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:12:15.577 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:12:35.596 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:12:47.581 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:13:01.769 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:13:17.639 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:13:31.775 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:13:47.699 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:14:01.815 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:14:25.647 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:14:39.707 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:14:55.685 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:15:09.840 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:15:25.698 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:15:55.768 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:16:11.774 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:16:25.748 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:16:41.846 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:17:31.826 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:17:45.783 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:18:01.821 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:18:15.799 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:18:31.944 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:18:45.863 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:19:01.890 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:21:35.939 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:21:49.998 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:22:06.007 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:22:20.014 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:22:35.993 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:22:56.083 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:23:06.032 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:23:20.031 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:23:46.042 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:24:02.089 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:24:16.092 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:24:32.107 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:24:46.097 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:25:04.435 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:25:16.406 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:25:30.187 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:25:46.232 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:26:00.237 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:26:16.152 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:28:02.219 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:28:16.229 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:28:32.393 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:28:46.268 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:29:08.260 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:30:40.289 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:30:54.327 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:31:10.347 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:31:51.162 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:32:07.083 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:32:25.348 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:32:35.105 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:32:59.208 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:33:13.080 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:33:29.168 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:34:51.361 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:35:07.237 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:35:21.209 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:35:55.287 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:36:13.340 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:36:31.303 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:36:41.322 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:38:09.313 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:40:09.479 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:40:25.623 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:41:41.442 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:41:55.705 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:42:09.775 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:42:25.480 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:42:39.608 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:42:57.505 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:43:09.525 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:43:25.615 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:43:39.576 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:43:55.570 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:44:09.589 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:44:25.621 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:44:39.702 | INFO     | server:handler:37 - Unregistered device 
+2023-08-23 08:45:05.995 | INFO     | server:start_server:71 - Server listing on the port 6543...
+2023-08-23 08:48:38.842 | INFO     | server:start_server:64 - Server is listing on the port 6543...
+2023-08-23 08:52:40.520 | INFO     | server:accept_connections:54 - Connected to: 192.168.1.252:36180
+2023-08-23 08:52:40.522 | INFO     | server:handler:26 - {'subrecord_type': 1, 'subrecord_length': 23, 'imei': b'866854055069457'}
+2023-08-23 08:52:40.524 | INFO     | server:handler:26 - {'subrecord_type': 1, 'subrecord_length': 23, 'imei': b'866854055069457'}
+2023-08-23 08:52:40.530 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51072223007463, 'longitude': 43.61964405598576, 'navigation_time': '2023-08-23 08:52:28'} 866854055069457
+2023-08-23 08:53:02.548 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51078123867297, 'longitude': 43.61957968296939, 'navigation_time': '2023-08-23 08:52:31'} 866854055069457
+2023-08-23 08:53:22.540 | INFO     | server:accept_connections:54 - Connected to: 192.168.1.252:41762
+2023-08-23 08:53:22.543 | INFO     | server:handler:26 - {'subrecord_type': 1, 'subrecord_length': 23, 'imei': b'866854055098993'}
+2023-08-23 08:53:22.545 | INFO     | server:handler:40 - Unregistered device 
+2023-08-23 08:53:46.599 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51319254457792, 'longitude': 43.617930124424845, 'navigation_time': '2023-08-23 08:53:42'} 866854055069457
+2023-08-23 08:54:00.618 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51466239511842, 'longitude': 43.61692161383501, 'navigation_time': '2023-08-23 08:53:57'} 866854055069457
+2023-08-23 08:54:16.619 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.514914522765885, 'longitude': 43.61675531687605, 'navigation_time': '2023-08-23 08:54:13'} 866854055069457
+2023-08-23 08:54:32.811 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.514914522765885, 'longitude': 43.61675263466704, 'navigation_time': '2023-08-23 08:54:24'} 866854055069457
+2023-08-23 08:54:54.930 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51705224335125, 'longitude': 43.61523182215524, 'navigation_time': '2023-08-23 08:54:50'} 866854055069457
+2023-08-23 08:55:08.691 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51849258959258, 'longitude': 43.614322553298976, 'navigation_time': '2023-08-23 08:55:05'} 866854055069457
+2023-08-23 08:55:24.643 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51849258959258, 'longitude': 43.61430109562685, 'navigation_time': '2023-08-23 08:55:14'} 866854055069457
+2023-08-23 08:55:38.670 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51964593946926, 'longitude': 43.61354471268448, 'navigation_time': '2023-08-23 08:55:30'} 866854055069457
+2023-08-23 08:55:54.827 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.52042646229277, 'longitude': 43.61363322558199, 'navigation_time': '2023-08-23 08:55:41'} 866854055069457
+2023-08-23 08:56:36.705 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.52138937532934, 'longitude': 43.61694843592517, 'navigation_time': '2023-08-23 08:56:34'} 866854055069457
+2023-08-23 08:57:28.761 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.52216453373482, 'longitude': 43.61952603878908, 'navigation_time': '2023-08-23 08:57:25'} 866854055069457
+2023-08-23 08:57:42.718 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.522043834329125, 'longitude': 43.619660149239856, 'navigation_time': '2023-08-23 08:57:32'} 866854055069457
+2023-08-23 08:58:19.057 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.67264987055041, 'longitude': 43.45103503285233, 'navigation_time': '2023-08-23 08:58:14'} 866854055098993
+2023-08-23 08:59:06.801 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51780057966658, 'longitude': 43.622216294431645, 'navigation_time': '2023-08-23 08:59:00'} 866854055069457
+2023-08-23 08:59:20.830 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51792396128129, 'longitude': 43.62317920746821, 'navigation_time': '2023-08-23 08:59:12'} 866854055069457
+2023-08-23 08:59:34.877 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51816267788367, 'longitude': 43.624512265348926, 'navigation_time': '2023-08-23 08:59:22'} 866854055069457
+2023-08-23 08:59:50.824 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51879567921134, 'longitude': 43.62820566716329, 'navigation_time': '2023-08-23 08:59:46'} 866854055069457
+2023-08-23 09:00:04.813 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51810366928533, 'longitude': 43.62826199355262, 'navigation_time': '2023-08-23 08:59:59'} 866854055069457
+2023-08-23 09:00:20.901 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51787299931, 'longitude': 43.62769068303231, 'navigation_time': '2023-08-23 09:00:13'} 866854055069457
+2023-08-23 09:00:40.922 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51787299931, 'longitude': 43.62769068303231, 'navigation_time': '2023-08-23 09:00:38'} 866854055069457
+2023-08-23 09:00:57.381 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51787299931, 'longitude': 43.62769068303231, 'navigation_time': '2023-08-23 09:00:43'} 866854055069457
+2023-08-23 09:03:18.579 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.67264987055041, 'longitude': 43.45103503285233, 'navigation_time': '2023-08-23 09:03:14'} 866854055098993
+2023-08-23 09:05:47.385 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51787299931, 'longitude': 43.62769068303231, 'navigation_time': '2023-08-23 09:05:43'} 866854055069457
+2023-08-23 09:08:18.426 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.67264987055041, 'longitude': 43.45103503285233, 'navigation_time': '2023-08-23 09:08:14'} 866854055098993
+2023-08-23 09:10:54.410 | INFO     | server:accept_connections:54 - Connected to: 192.168.1.252:33430
+2023-08-23 09:10:54.413 | INFO     | server:handler:26 - {'subrecord_type': 1, 'subrecord_length': 23, 'imei': b'866854055069457'}
+2023-08-23 09:10:54.415 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51787299931, 'longitude': 43.62769068303231, 'navigation_time': '2023-08-23 09:10:43'} 866854055069457
+2023-08-23 09:13:27.552 | INFO     | server:accept_connections:54 - Connected to: 192.168.1.252:49914
+2023-08-23 09:13:27.555 | INFO     | server:handler:26 - {'subrecord_type': 1, 'subrecord_length': 23, 'imei': b'866854055098993'}
+2023-08-23 09:13:27.557 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.67264987055041, 'longitude': 43.45103503285233, 'navigation_time': '2023-08-23 09:13:14'} 866854055098993
+2023-08-23 09:15:47.752 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51787299931, 'longitude': 43.62769068303231, 'navigation_time': '2023-08-23 09:15:43'} 866854055069457
+2023-08-23 09:18:19.870 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.67264987055041, 'longitude': 43.45103503285233, 'navigation_time': '2023-08-23 09:18:14'} 866854055098993
+2023-08-23 09:19:24.389 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51787299931, 'longitude': 43.62769068303231, 'navigation_time': '2023-08-23 09:19:20'} 866854055069457
+2023-08-23 09:19:38.286 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51762891828959, 'longitude': 43.62798572602402, 'navigation_time': '2023-08-23 09:19:35'} 866854055069457
+2023-08-23 09:19:56.336 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51760477840845, 'longitude': 43.62813592972889, 'navigation_time': '2023-08-23 09:19:48'} 866854055069457
+2023-08-23 09:20:08.286 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.517846177219845, 'longitude': 43.62848193469189, 'navigation_time': '2023-08-23 09:20:01'} 866854055069457
+2023-08-23 09:20:24.283 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51880372583838, 'longitude': 43.62820834937231, 'navigation_time': '2023-08-23 09:20:17'} 866854055069457
+2023-08-23 09:20:38.258 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51888955652688, 'longitude': 43.627964268351896, 'navigation_time': '2023-08-23 09:20:26'} 866854055069457
+2023-08-23 09:21:25.438 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51782740175673, 'longitude': 43.6222431165218, 'navigation_time': '2023-08-23 09:21:20'} 866854055069457
+2023-08-23 09:21:38.437 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.517851541637874, 'longitude': 43.62214655699724, 'navigation_time': '2023-08-23 09:21:22'} 866854055069457
+2023-08-23 09:22:50.339 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.52212430059959, 'longitude': 43.619601140641514, 'navigation_time': '2023-08-23 09:22:47'} 866854055069457
+2023-08-23 09:23:10.486 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.522202084661046, 'longitude': 43.61937583508421, 'navigation_time': '2023-08-23 09:22:55'} 866854055069457
+2023-08-23 09:23:18.424 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.67264987055041, 'longitude': 43.45103503285233, 'navigation_time': '2023-08-23 09:23:14'} 866854055098993
+2023-08-23 09:23:20.341 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.52203042328405, 'longitude': 43.618884990834374, 'navigation_time': '2023-08-23 09:23:06'} 866854055069457
+2023-08-23 09:23:36.466 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.521523485780115, 'longitude': 43.617098639630036, 'navigation_time': '2023-08-23 09:23:23'} 866854055069457
+2023-08-23 09:24:34.480 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.52021456778054, 'longitude': 43.61295999111909, 'navigation_time': '2023-08-23 09:24:30'} 866854055069457
+2023-08-23 09:24:50.462 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51986319839951, 'longitude': 43.61293316902894, 'navigation_time': '2023-08-23 09:24:38'} 866854055069457
+2023-08-23 09:25:04.481 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.519222150444804, 'longitude': 43.61368955197131, 'navigation_time': '2023-08-23 09:24:50'} 866854055069457
+2023-08-23 09:28:18.524 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.67264987055041, 'longitude': 43.45103503285233, 'navigation_time': '2023-08-23 09:28:14'} 866854055098993
+2023-08-23 09:30:32.730 | INFO     | server:accept_connections:54 - Connected to: 192.168.1.252:55326
+2023-08-23 09:30:32.732 | INFO     | server:handler:26 - {'subrecord_type': 1, 'subrecord_length': 23, 'imei': b'866854055069457'}
+2023-08-23 09:30:32.734 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.51237178861917, 'longitude': 43.618404875420595, 'navigation_time': '2023-08-23 09:29:04'} 866854055069457
+2023-08-23 09:31:06.656 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.50763232528875, 'longitude': 43.62172813239082, 'navigation_time': '2023-08-23 09:31:03'} 866854055069457
+2023-08-23 09:31:22.696 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.50668818771529, 'longitude': 43.622071455144805, 'navigation_time': '2023-08-23 09:31:10'} 866854055069457
+2023-08-23 09:31:42.718 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.505730639096754, 'longitude': 43.62236918034553, 'navigation_time': '2023-08-23 09:31:20'} 866854055069457
+2023-08-23 09:31:52.757 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.50504935800681, 'longitude': 43.622586439275786, 'navigation_time': '2023-08-23 09:31:43'} 866854055069457
+2023-08-23 09:32:06.791 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.50434393703573, 'longitude': 43.62283588471423, 'navigation_time': '2023-08-23 09:31:54'} 866854055069457
+2023-08-23 09:32:22.772 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.50432247936361, 'longitude': 43.62286002459537, 'navigation_time': '2023-08-23 09:32:08'} 866854055069457
+2023-08-23 09:33:00.730 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.504239330884126, 'longitude': 43.62286807122241, 'navigation_time': '2023-08-23 09:32:56'} 866854055069457
+2023-08-23 09:33:14.789 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.50369752466299, 'longitude': 43.622776876115886, 'navigation_time': '2023-08-23 09:33:09'} 866854055069457
+2023-08-23 09:33:18.748 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.67264987055041, 'longitude': 43.45103503285233, 'navigation_time': '2023-08-23 09:33:14'} 866854055098993
+2023-08-23 09:33:30.802 | INFO     | server:handler:38 - {'subrecord_type': 16, 'subrecord_length': 24, 'latitude': 43.50367606699086, 'longitude': 43.62242550673486, 'navigation_time': '2023-08-23 09:33:16'} 866854055069457
+2023-08-23 09:34:17.924 | INFO     | server:start_server:74 - Server listing on the port 6543...
